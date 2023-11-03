@@ -1,6 +1,5 @@
 # AI-Driven Exploration and Prediction of Company Registration Trends with Register of Companies (RoC)
 
-
 ## Project Description
 
 This project is dedicated to the exploration and prediction of company registration trends utilizing data from the Register of Companies (RoC). Through the application of artificial intelligence and data analysis, we aim to extract valuable insights and make informed predictions regarding company registrations. The project is structured into various phases, each focusing on specific aspects of the exploration and prediction process.
